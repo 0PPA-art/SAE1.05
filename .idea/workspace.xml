@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d07e47b-2166-47e3-93a5-c6666f558fa9" name="Changes" comment="new project">
-      <change afterPath="$PROJECT_DIR$/Affichage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Analyse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_qt.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +35,7 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/0PPA-art/SAE1.05.git",
-    "accountId": "e0d02865-c3eb-4991-bb2b-5dd304c01144"
+    "accountId": "2728b8cc-258b-4914-b8b2-6a8b9964490c"
   }
 }]]></component>
   <component name="ProjectColorInfo">{
@@ -55,9 +53,11 @@
     "Python.Creation_Camembert.executor": "Run",
     "Python.Selection.executor": "Run",
     "Python.TD1.executor": "Run",
+    "Python.test_qt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "U:/Bureau/SAE1.05",
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
